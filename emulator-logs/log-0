@@ -1,0 +1,7 @@
+Logging began at Wed Dec 07 16:00:22 PST 2016 [0]
+[17 FINE] (ConnectionReceiverThread.java:58) About to listen on 80
+[18 FINE] (ConnectionReceiverThread.java:58) About to listen on 1540
+[24 WARNING] (ConnectionReceiverThread.java:64) Failed to bind to port 80.
+[518 INFO] (DeviceListMain.java:70) Starting application: robot.ChipBunnyBot
+[596 INFO] (DeviceListMain.java:73) Hello, robot.ChipBunnyBot!
+Logging continues at Wed Dec 07 16:00:32 PST 2016

@@ -1,0 +1,12 @@
+Logging began at Fri Dec 16 13:49:19 PST 2016 [0]
+[12 FINE] (ConnectionReceiverThread.java:58) About to listen on 80
+[13 FINE] (ConnectionReceiverThread.java:58) About to listen on 1540
+[17 WARNING] (ConnectionReceiverThread.java:64) Failed to bind to port 80.
+[515 INFO] (DeviceListMain.java:70) Starting application: robot.ChipBunnyBot
+[612 INFO] (CANTalonDevice.java:69) Changed main sensor on 8 to Encoder
+[629 INFO] (CANTalonDevice.java:69) Changed main sensor on 3 to Encoder
+[630 INFO] (CANTalonDevice.java:69) Changed main sensor on 2 to Encoder
+[632 INFO] (CANTalonDevice.java:69) Changed main sensor on 1 to Encoder
+[633 INFO] (CANTalonDevice.java:69) Changed main sensor on 5 to Encoder
+[634 INFO] (CANTalonDevice.java:69) Changed main sensor on 6 to Encoder
+[650 INFO] (DeviceListMain.java:73) Hello, robot.ChipBunnyBot!
